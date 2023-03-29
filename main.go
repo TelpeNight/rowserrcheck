@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/jingyugao/rowserrcheck/passes/rowserr"
+	"github.com/TelpeNight/rowserrcheck/passes/rowserr"
 	"golang.org/x/tools/go/analysis/singlechecker"
 )
 
